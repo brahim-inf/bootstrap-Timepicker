@@ -15,7 +15,14 @@
         </div>
  
         <script type="text/javascript">
-            $('#timepicker1').timepicker();
+            $('#timepicker2').timepicker({
+                minuteStep: 1,
+                template: 'modal',
+                appendWidgetTo: 'body',
+                showSeconds: true,
+                showMeridian: false,
+                defaultTime: false
+            });
         </script>
     </body>
 </html>
