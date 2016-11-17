@@ -9,6 +9,10 @@
         <script type="text/javascript" src="js/bootstrap-timepicker.min.js"></script>
     </head>
     <body>
+	<div class="input-group bootstrap-timepicker timepicker">
+            <input id="timepicker1" type="text" class="form-control input-small">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
+        </div>
         <div class="input-group bootstrap-timepicker timepicker">
             <input id="timepicker2" type="text" class="form-control input-small">
             <span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
