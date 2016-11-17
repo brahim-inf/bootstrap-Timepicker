@@ -11,14 +11,14 @@
 	<body>
 		<div class="input-group bootstrap-timepicker timepicker">
 			<label id="label1" class="form-control">
-				<span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
+				<span class="label">Enter your start time</span>
 			</label>
 			<input id="timepicker1" type="text" class="form-control input-small">
 			<span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
 		</div>
 		<div class="input-group bootstrap-timepicker timepicker">
 			<label id="label2" class="form-control">
-				<span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
+				<span class="label">Enter your arrive time</span>
 			</label>
 			<input id="timepicker2" type="text" class="form-control input-small">
 			<span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
